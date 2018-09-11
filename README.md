@@ -8,6 +8,7 @@
 * [Flexibits](https://flexibits.com/fantastical)
 * [IINA](https://github.com/lhc70000/iina)
 * [OmniFocus](https://www.omnigroup.com/omnifocus/)
+* [PopClip](https://pilotmoon.com/popclip/)
 * [Sublime Text](https://www.sublimetext.com)
 * [TotalSpaces](https://totalspaces.binaryage.com)
 
