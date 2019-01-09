@@ -10,6 +10,7 @@
 * [OmniFocus](https://www.omnigroup.com/omnifocus/)
 * [PopClip](https://pilotmoon.com/popclip/)
 * [Sublime Text](https://www.sublimetext.com)
+* [ToothFairy](https://c-command.com/toothfairy/)
 * [TotalSpaces](https://totalspaces.binaryage.com)
 
 Command-line tools:
