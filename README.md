@@ -9,6 +9,7 @@
 * [IINA](https://github.com/lhc70000/iina)
 * [OmniFocus](https://www.omnigroup.com/omnifocus/)
 * [PopClip](https://pilotmoon.com/popclip/)
+* [Spectacle](https://www.spectacleapp.com) - allows to organize your windows without using a mouse.
 * [Sublime Text](https://www.sublimetext.com)
 * [ToothFairy](https://c-command.com/toothfairy/)
 * [TotalSpaces](https://totalspaces.binaryage.com)
