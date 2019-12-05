@@ -16,10 +16,10 @@
 
 Command-line tools:
 * [bat](https://github.com/sharkdp/bat) - a cat clone with wings.
-* [brew](https://brew.sh)
+* [brew](https://brew.sh) - package manager
 * [csvkit](https://csvkit.readthedocs.io)
 * [fd](https://github.com/sharkdp/fd) - a simple, fast and user-friendly alternative to find.
 * [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor.
-* [TLDR pages](https://tldr.sh)
+* [TLDR pages](https://tldr.sh) - nice addition to man pages
 
 Inspired by [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
