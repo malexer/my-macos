@@ -5,7 +5,7 @@
 * [Bartender](https://www.macbartender.com)
 * [Contexts](https://contexts.co) 
 * [Dash](https://kapeli.com/dash)
-* [Fantastical 2](https://flexibits.com/fantastical)
+* [Fantastical 2](https://flexibits.com/fantastical) (Note: unfortunatelly the last update Fantastical 3 is a subscription based)
 * [IINA](https://github.com/lhc70000/iina)
 * [OmniFocus](https://www.omnigroup.com/omnifocus/)
 * [PopClip](https://pilotmoon.com/popclip/)
