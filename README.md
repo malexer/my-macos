@@ -7,10 +7,10 @@
 * [Dash](https://kapeli.com/dash)
 * [Fantastical 2](https://flexibits.com/fantastical) (Note: unfortunately the last update Fantastical 3 is a subscription based)
 * [IINA](https://github.com/lhc70000/iina)
-* [OmniFocus](https://www.omnigroup.com/omnifocus/)
 * [PopClip](https://pilotmoon.com/popclip/)
 * [Spectacle](https://www.spectacleapp.com) - allows to organize your windows without using a mouse.
 * [Sublime Text](https://www.sublimetext.com)
+* [Things 3](https://culturedcode.com/things/)
 * [ToothFairy](https://c-command.com/toothfairy/)
 * [TotalSpaces](https://totalspaces.binaryage.com)
 
